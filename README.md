@@ -8,4 +8,4 @@ In both the projects keras library support is used.
 
 
 
-The cat vs dog classification problem is solved using cnn vgg architecture with comparitively smaller dataset of few hundred images,so it accuracy is less,however if we increase the dataset it achieves more than 97% accuracy
+The cat vs dog classification problem is solved using cnn vgg architecture with comparitively smaller dataset of few hundred images,so it accuracy is less,however if we increase the dataset it achieves more tha 97% accuracy
